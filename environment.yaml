@@ -1,0 +1,9 @@
+name: herbarium_processing
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - folium=0.20.0
+  - jupyterlab=4.4.3
+  - ipywidgets=8.1.7
+  - pillow=11.2.1
